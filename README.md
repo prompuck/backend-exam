@@ -1,1 +1,3 @@
-# backend-exam
+# technical-exam
+├── frontend/
+└── backend/
