@@ -1,4 +1,4 @@
 Project Structure
-technical-exam/
+technical-exam
 - backend/
 - frontend/
