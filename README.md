@@ -17,5 +17,5 @@ Directory: backend/
 
 Project Structure
 technical-exam/
-├── frontend/
-└── backend/
+- frontend/
+- backend/
